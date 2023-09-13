@@ -1,0 +1,19 @@
+.jumbotron {
+  padding: 6rem 2rem;
+  background: rgb(179, 179, 179);
+}
+#about {
+  padding: 6rem 2rem;
+  background: rgb(102, 102, 102);
+}
+#projects {
+  padding: 6rem 2rem;
+  background: rgb(179, 179, 179);
+}
+#contact {
+  padding: 6rem 2rem;
+}
+
+section {
+  padding-top: 6rem ;
+}
